@@ -1,16 +1,14 @@
-# stage_1
+#Introduction
+- This an self-introductory app
+1. Slack Name: This is an application that main screen displays my Slack name on the screen.
+2. Display Picture:  This is an application that main screen displays my Slack profile on the screen.
+3. Open GitHub Button: This button navigates you to the page with my github profile.
 
-A new Flutter project.
+- [My Appetize Link](https://appetize.io/app/unmexx2fxpv74wignujgrltrz4?device=pixel4&osVersion=11.0&scale=75)
 
-## Getting Started
+#Requirements
+- Flutter & SDKs installed 
 
-This project is a starting point for a Flutter application.
+#Packages
+- webview_flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
